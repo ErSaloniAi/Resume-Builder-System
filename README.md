@@ -93,7 +93,7 @@ java Resume
 
 👩‍💻 Author
 
-- Your Name
+- Saloni Gorsiya
 
 ---
 
